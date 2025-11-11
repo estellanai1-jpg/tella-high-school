@@ -856,7 +856,7 @@
     <!-- Hero Section -->
     <section class="hero" id="home">
         <div class="container">
-            <h2>Welcome to Taylor High School</h2>
+            <h2>Welcome to Tellaa High School</h2>
             <p>An innovative and community-driven secondary school dedicated to nurturing excellence and building futures for our students.</p>
             <a href="#about" class="btn">Discover Our School</a>
         </div>
@@ -909,7 +909,7 @@
             <div class="about-content">
                 <div class="about-text">
                     <h3>Our Mission & Vision</h3>
-                    <p>Taylor High School is committed to providing a holistic education that nurtures academic excellence, character development, and lifelong learning skills. Our vision is to empower students to become responsible global citizens and leaders of tomorrow.</p>
+                    <p>Tella High School is committed to providing a holistic education that nurtures academic excellence, character development, and lifelong learning skills. Our vision is to empower students to become responsible global citizens and leaders of tomorrow.</p>
                     <p>Founded in 1985, we have grown from a small community school to a leading educational institution with over 1,200 students and 85 dedicated staff members.</p>
                     <p>Our core values of integrity, excellence, respect, and community guide everything we do, creating a supportive environment where every student can thrive.</p>
                     <a href="#" class="btn">Learn More About Us</a>
@@ -1388,7 +1388,7 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-column">
-                    <h3>Taylor High School</h3>
+                    <h3>Tella High School</h3>
                     <p>Nurturing Excellence, Building Futures since 1985. Committed to providing quality education and holistic development for all students.</p>
                     <div class="social-icons">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
