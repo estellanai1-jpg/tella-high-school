@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Taylor High School - Nurturing Excellence, Building Futures</title>
+    <title>Tella High School - Nurturing Excellence, Building Futures</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
@@ -832,7 +832,7 @@
         <div class="container header-container">
             <div class="logo">
                 <div class="logo-text">
-                    <h1>Taylor High School</h1>
+                    <h1>Tella High School</h1>
                     <span>Nurturing Excellence, Building Futures</span>
                 </div>
             </div>
@@ -1104,7 +1104,7 @@
             <div class="admissions-content">
                 <div class="admissions-info">
                     <h3>Join Our School Community</h3>
-                    <p>Taylor High School welcomes applications from students who demonstrate academic potential, character, and a commitment to learning. Our admission process is designed to identify students who will thrive in our challenging and supportive environment.</p>
+                    <p>Tella High School welcomes applications from students who demonstrate academic potential, character, and a commitment to learning. Our admission process is designed to identify students who will thrive in our challenging and supportive environment.</p>
                     <p><strong>Key Admission Dates:</strong></p>
                     <ul>
                         <li>Application Period: January 15 - March 31</li>
@@ -1179,7 +1179,7 @@
                 <div class="testimonial-grid">
                     <div class="testimonial-card">
                         <div class="testimonial-text">
-                            <p>Taylor High School has provided my daughter with an exceptional education and countless opportunities to explore her interests. The teachers are dedicated and supportive.</p>
+                            <p>Tella High School has provided my daughter with an exceptional education and countless opportunities to explore her interests. The teachers are dedicated and supportive.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="author-img">
@@ -1193,7 +1193,7 @@
                     </div>
                     <div class="testimonial-card">
                         <div class="testimonial-text">
-                            <p>The science program at Taylor High School sparked my interest in engineering. The hands-on experiments and supportive teachers helped me discover my passion.</p>
+                            <p>The science program at Tella High School sparked my interest in engineering. The hands-on experiments and supportive teachers helped me discover my passion.</p>
                         </div>
                         <div class="testimonial-author">
                             <div class="author-img">
@@ -1263,7 +1263,7 @@
             <div class="donations-content">
                 <div class="donations-info">
                     <h3>Partnerships & Donations</h3>
-                    <p>Taylor High School relies on the generous support of our community, alumni, and corporate partners to enhance our educational programs and facilities. Your contribution helps us provide exceptional opportunities for our students.</p>
+                    <p>Tella High School relies on the generous support of our community, alumni, and corporate partners to enhance our educational programs and facilities. Your contribution helps us provide exceptional opportunities for our students.</p>
                     <p>We offer various partnership opportunities, including:</p>
                     <ul>
                         <li>Student scholarship programs</li>
@@ -1343,7 +1343,7 @@
                             </div>
                             <div>
                                 <h4>Email</h4>
-                                <p>info@taylorhigh.edu</p>
+                                <p>info@tellahigh.edu</p>
                             </div>
                         </div>
                         <div class="contact-item">
@@ -1423,12 +1423,12 @@
                     <ul>
                         <li><i class="fas fa-map-marker-alt"></i> 123 Education Avenue, Academic City</li>
                         <li><i class="fas fa-phone"></i> (123) 456-7890</li>
-                        <li><i class="fas fa-envelope"></i> info@taylorhigh.edu</li>
+                        <li><i class="fas fa-envelope"></i> info@tellahigh.edu</li>
                     </ul>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2023 Taylor High School. All Rights Reserved.</p>
+                <p>&copy; 2023 Tella High School. All Rights Reserved.</p>
             </div>
         </div>
     </footer>
